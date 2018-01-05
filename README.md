@@ -1,6 +1,6 @@
 # 量化投資 Project 02
 
-## 各組 GitHub Repo:
+## 各組題目:
 
 第一組：[Line理財機器人](https://github.com/ChiWeiHsu/teamproject)
 
