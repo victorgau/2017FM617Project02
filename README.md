@@ -1,21 +1,27 @@
 # 量化投資 Project 02
-## Due: 2017/12/23 9:00pm
 
-(突然發現再晚一點就 Xmas 了，我們還是不要太晚交好了。)
+## 各組 GitHub Repo:
 
-請各組討論一下自己想做的題目，並更新如下的資訊：
+第一組：[Line理財機器人](https://github.com/ChiWeiHsu/teamproject)
 
-### 題目名稱：
+第二組：[保本型選擇權投資](https://github.com/dimplelin/Project_02_Team_02)
 
-### 組員：
+第三組：[我想太多了](https://github.com/tungp03/2017FM617Project02)
 
-### 動機：
+第四組：[各大新聞網重點摘要](https://github.com/tangershen/Project02-2017FM617/tree/master)
 
-(為何做此一題目？)
+第五組：[手把手台新小知識](https://github.com/chenminluo/2017FM617Project02)
 
-### 計畫摘要：
+第六組：[12星座適合的投資方式](https://github.com/Qog0/-Project/blob/master/README.md)
 
-(簡單說明如何去做此 Project，如何分工？預計做到什麼樣的程度？)
+第七組：[天靈靈、地靈靈、投資靈不靈](https://github.com/efang55/2017FM617Project02)
+
+第八組：[網路股票討論度與波動度關係之探討](https://github.com/mingju0625/2017project02_8/blob/master/README.md)
+
+第九組：[以深度學習判讀K線，建構投資組合](https://github.com/ChenHandsomeboy/Team_Project/tree/master)
+
+第十組：[動態蛛網交易策略](https://github.com/YHYHLIU/team_progect/blob/master/README.md)
+
 
 ### 參考連結：
 
