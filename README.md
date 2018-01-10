@@ -6,7 +6,7 @@
 
 第二組：[保本型選擇權投資](https://github.com/dimplelin/Project_02_Team_02)
 
-第三組：[我想太多了](https://github.com/tungp03/2017FM617Project02)
+第三組：[30秒遇見奇蹟](https://github.com/tungp03/2017FM617Project02)
 
 第四組：[各大新聞網重點摘要](https://github.com/tangershen/Project02-2017FM617)
 
